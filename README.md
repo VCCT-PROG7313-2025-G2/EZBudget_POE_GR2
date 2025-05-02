@@ -41,6 +41,10 @@ budgeting goals. EZ Budget includes features such as:
 
 ## Contributions
 
+JOSHUA GAIN – ST10369044 – GROUP LEADER
+YOUNOUS HOUSSEN- ST10311777  
+JOSE LUBOTA – ST10376126
+
 [![Contributors](https://contrib.rocks/image?repo=Younous87/PROG7313_POE)](https://github.com/Younous87/PROG7313_POE/graphs/contributors)
 
 ## Acknowledgments 
