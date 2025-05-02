@@ -23,7 +23,7 @@ budgeting goals. EZ Budget includes features such as:
 
 ## Video Guide
 
-[**Video goes here**](http://www.youtube.com/@younoushoussen5642)
+[**Video**](http://www.youtube.com/@younoushoussen5642)
 
 ## Prerequisites
 
